@@ -27,9 +27,9 @@
 - Achieved strong model performance with high **R²** and **low MSE** on test data.
 
 ## Task 4 – Iris Flower Classification
-Loaded and explored the **Iris dataset** for **classifying flower species** based on petal and sepal dimensions.
-Conducted data **analysis** and **visualization** with **pairplots** to observe class separations.
-Applied **StandardScaler** for **feature normalization** to enhance model performance.
-Trained a **Support Vector Machine** (SVM) classifier with RBF kernel for **multi-class classification**.
-Evaluated the model using **accuracy score**, **classification report**, and **confusion matrix visualization**.
-Achieved **~96–98% accuracy** across test data with excellent precision and recall for all species.
+- Loaded and explored the **Iris dataset** for **classifying flower species** based on petal and sepal dimensions.
+- Conducted data **analysis** and **visualization** with **pairplots** to observe class separations.
+- Applied **StandardScaler** for **feature normalization** to enhance model performance.
+- Trained a **Support Vector Machine** (SVM) classifier with RBF kernel for **multi-class classification**.
+- Evaluated the model using **accuracy score**, **classification report**, and **confusion matrix visualization**.
+- Achieved **~96–98% accuracy** across test data with excellent precision and recall for all species.
